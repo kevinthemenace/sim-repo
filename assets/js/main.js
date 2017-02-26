@@ -7,13 +7,9 @@ for (var i=0; i<links.length; i++) {
 }
 
 function enlargeText() {
-	for (var i=0; i<links.length; i++) {
-		links[i].classname = 'enlarge';
-	}
+	this.classname = 'enlarge';
 }
 
 function initialText() {
-	for (var i=0; i<links.length; i++) {
-		links[i].classname = 'initialText';
-	}
+	this.classname = 'initialSize';
 }

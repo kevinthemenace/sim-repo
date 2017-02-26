@@ -1,3 +1,16 @@
 .container {
 	margin: 0 auto;
 }
+
+.kevlink {
+	text-decoration: none;
+	color: #287EE8;
+}
+
+.enlarge {
+	font-size: 24px;
+}
+
+.initialSize {
+	font-size: initial;
+}
