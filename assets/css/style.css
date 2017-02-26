@@ -1,5 +1,6 @@
 .container {
 	margin: 0 auto;
+	text-align: center;
 }
 
 .kevlink {
@@ -8,9 +9,17 @@
 }
 
 .enlarge {
+	text-decoration: none;
+	color: #287EE8;
 	font-size: 24px;
 }
 
 .initialSize {
+	text-decoration: none;
+	color: #287EE8;
 	font-size: initial;
+}
+
+ul {
+	list-style: none;
 }
